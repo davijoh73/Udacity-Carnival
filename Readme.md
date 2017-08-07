@@ -1,4 +1,4 @@
-# Night at the Museum
+# Carnival
 This project is part of the Udacity VR Nanodegree program, and is actually the first project.  The content of the Nanodegree has changed a little bit since I started, and this project was not included when I went through the first part of the course, so I thought I would run through this quick as a refresher, and also because it looked pretty neat.
 
 ![alt text](Screenshot1_Carnival.png "In-game screenshot")
